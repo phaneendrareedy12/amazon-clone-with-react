@@ -1,0 +1,28 @@
+.advertisement_one_component {
+    width: 350px;
+    height: 385px;
+    background-color: white;
+    margin: 8px;
+    line-height: 30px;
+}
+
+.advertisement_one_header {
+    font-size: 21px;
+    line-height: 27.3px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.advertisement_one_body {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.advertisement_one_body_img {
+    width: 318px;
+}
+
+.advertisement_one_footer {
+    padding-left: 15px;
+    margin-top: 4px;
+}

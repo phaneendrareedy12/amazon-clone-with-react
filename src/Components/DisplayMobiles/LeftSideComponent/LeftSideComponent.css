@@ -1,0 +1,17 @@
+.leftside_component {
+    height: 100vh;
+    width: 200px;
+    border-right: 1px solid #DDDDDD;
+    padding: 15px 0px 0px 40px;
+    background-color: #fbf7f7;
+}
+
+.leftside_component_brand {
+    font-weight: bold;
+    margin: 0px 10px 10px 5px;
+}
+
+.brandname {
+    display: block;
+    width: 100px;
+}

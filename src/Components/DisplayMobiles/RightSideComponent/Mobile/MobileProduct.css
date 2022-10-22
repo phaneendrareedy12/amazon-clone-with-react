@@ -1,0 +1,29 @@
+.mobile_component {
+    width: 300px;
+    height: 450px;
+    margin: 20px 0px 0px 20px;
+    border: 1px solid #DDDDDD;
+    border-radius: 5px;
+}
+
+.mobile_image_div {
+   
+}
+
+.mobile_image {
+    max-width: 280px;
+    margin-top: 5px ;
+    margin-left: 10px;
+}
+
+.mobile_description {
+    margin: 3px 10px 0px 42px;
+}
+
+.mobile_price {
+    margin: 3px 10px 0px 42px;
+}
+
+.mobile_rating {
+    margin: 10px 10px 0px 42px;
+}

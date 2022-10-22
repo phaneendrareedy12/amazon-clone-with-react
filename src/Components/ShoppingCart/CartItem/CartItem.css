@@ -1,0 +1,22 @@
+.cartitem_component {
+    display: flex;
+    background-color: #FFFFFF;
+    border-bottom: 1px solid #DDDDDD;
+    height: 270px;
+}
+
+.cartitem_image {
+    width: 250px;
+}
+
+.cartitem_discription {
+    color: #5CACE9;
+    font-weight: bold;
+    padding: 10px 0px 0px 0px;
+}
+
+.cartitem_price {
+    color: #5CACE9;
+    font-weight: bold;
+    padding: 10px 10px 0px 250px;
+}

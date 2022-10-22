@@ -1,0 +1,31 @@
+.advertisement_four_component {
+    width: 350px;
+    height: 385px;
+    background-color: white;
+    margin: 8px;
+    line-height: 30px;
+}
+
+.advertisement_four_header {
+    font-size: 21px;
+    line-height: 27.3px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.advertisement_four_body {
+    padding-left: 15px;
+    padding-right: 15px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.advertisement_four_body_img {
+    width: 150px;
+    margin: 4px 4px 0px 4px;
+}
+
+.advertisement_four_footer {
+    padding-left: 15px;
+    margin-top: 4px;
+}

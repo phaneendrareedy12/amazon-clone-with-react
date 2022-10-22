@@ -1,0 +1,13 @@
+.mainpage_component {
+    width: 100vw;
+    height: 100vh;
+    background-size: 100vw;
+    background: url('https://ik.imagekit.io/n7nfu6861/1348517_in_prime_2_pd_3000x1200_Eng._CB663273097_.jpg_eW1DqpqO1v.png?ik-sdk-version=javascript-1.4.3&updatedAt=1665925745012');
+    background-color: #EAEDED;
+}
+
+.mainpage_advertisement {
+    padding-top: 360px;
+    display: flex;
+    flex-wrap: wrap;
+}

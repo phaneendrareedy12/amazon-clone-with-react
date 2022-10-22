@@ -1,0 +1,5 @@
+.diplay_mobiles_rightside_component {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #fbf7f7;
+}
